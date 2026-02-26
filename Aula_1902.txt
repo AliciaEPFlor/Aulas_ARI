@@ -1,0 +1,38 @@
+Instalação do VS Code: 
+Passo a passo de como criar abrir uma pastas, criar arquivos para anotar
+Instrução de Auto Save
+
+Arquitetura Cliente-Servidor
+- A aquitetura cliente-servidor é um dos pilares fundamentais do desenvolvimento de sistemas distribuidos e aplicações na era digital. Ela define a forma como computadores ou dispositivos (clientes) interagem com sistemas centralizados (servidores) para realizar tarefas, acessar recursos e consumir serviço
+
+Rede em Malha (Mesh) 
+--> A topologia de rede é uma das pricipais aquiteturas de rede em que os dispositivos são conectados com muitas interconexões redundantes entre nós de rede, com roteadores e swiches
+- E redundante (tem mais de um caminho)
+Redundante : Repetição de uma informação
+
+Instalação do Packet Tracer
+Tarefa finalizada em 26/02: Criar um rede CLIENTE-Servidor
+PC  -  SWITCH  -  SERVIDOR 
+10.87.47.52
+10 = Americana
+87 = SENAI
+47 = A50
+52 = Dispositivo
+
+IP Configuration (Packet Tracer, Server)
+- DHCP 
+- STATIC
+- 10.87.47.1 -> Gateway padrão - Static
+
+
+Atalhos:
+crtl+shift+n = Nova pasta
+F2 = Renomeia
+alt+tab = Altarna janelas
+crtl+s = Salvar alterações
+
+
+
+
+ 
+

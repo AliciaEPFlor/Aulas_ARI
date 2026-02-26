@@ -1,0 +1,45 @@
+Peer-to-peer 
+
+Cliente <--> Servidor 
+
+Servidor<--> Cliente 
+
+Desvantagens: Exposição 
+
+Vantagens: Mais rápidos, menor, interferência externa, dados mantidos 
+
+ 
+
+Client Server 
+
+ 
+
+Servido --> Cliente 
+
+Os papeis não mudem 
+
+Desvantagens: Dependência, latência 
+
+Vantagens: Maior alcance  
+
+ 
+
+Comunicação: Emissor <--> Receptor 
+
+-Idioma/protocolo 
+
+ 
+
+Python (inicializar) –m http.server (Protocolo) 8000 (Porta APTO) 
+
+C: = Dispositivo SSD/HD/Pmative...  
+
+\User\Plati\... = caminho ou “Path” --> Patas (Diretorio) 
+
+10.87.47.67 = IP do servidor 
+
+:8000 = (delimitador “dois pontos” sem espaços entre os caracteres) 
+
+ 
+
+Toda porta 80 e padrão para rodar um servidor https 
