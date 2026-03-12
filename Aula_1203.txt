@@ -1,0 +1,61 @@
+Cursos complementares
+Cursos da Cisco
+Curso autoinstruncional: Cursos obrigatorios dentro do SENAI
+Ao final do curso de DS recebera 16 certificados mas o certificado do curso tecnico
+
+Modelos e protocolos de redes aplicados á comunicação entre sistemas
+
+Cliente                     Garçom                Cozinha
+   |                           |                     |
+Navegador                   Http                  Servidor
+
+Um protocolo de rede é um conjunto de regras que define como os dispositivos se comunicam.
+Essas regras determinam:
+
+-Formato de mensagem
+-Forma de envio
+-Forma de recebimento
+-Tratamento de Erros
+
+http S-> Certificação de Protocolo
+
+Exemplos ed protocolos
+TPC: garante entrega de dados
+HTTP: comunicação web
+MQTT: comunicação IoT 
+
+MODELO TCP/IP
+Aplicação -> Interação com outros programas
+Transporte -> Entrega de dados
+Internet -> Endereçamento 
+Link -> Transmissão fisica
+
+- O HTTO (Hypertext Transfer Protocol) é o protocolo para comunicação na web 
+
+Ele e baseado em: requisisão em: requisisão e resposta
+
+Fluxo da comunicação
+
+Cliente -> Requisição -> Servidor
+Cliente <- Resposta <- Servidor
+
+METODOS HTTP 
+Metodo Get: 
+- O objetivo do metodo GET e simplismente recuperar dados do servidor. O metodo GET é usado para solicitar qualquer um dos seguintes recursos:
+   - Uma pagina ou arquivo HTML
+   - Uma imagem ou video
+   - Um documento JSON
+   - Um arquivo CSS ou arquivo JavaScript 
+   - Um arquivo XML
+
+Metodo POST:
+- O metodo de solicitação POST HTTP envia dados ao servidor para processamento. Os dados enviados ao servidor normalmente estão no seguinte Formato
+    - Campos de entrada de formularios online
+    - Dados XML ou JSON
+    - Dados de texto de paramentros de consulta
+
+A operação posta não e considerada uma operação segura, pois tem o poder de atualizar 
+
+Instalação do Python
+
+Configuração do VSCODE

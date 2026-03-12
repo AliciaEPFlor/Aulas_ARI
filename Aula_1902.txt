@@ -24,7 +24,6 @@ IP Configuration (Packet Tracer, Server)
 - STATIC
 - 10.87.47.1 -> Gateway padrão - Static
 
-
 Atalhos:
 crtl+shift+n = Nova pasta
 F2 = Renomeia
