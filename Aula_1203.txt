@@ -59,3 +59,8 @@ A operação posta não e considerada uma operação segura, pois tem o poder de
 Instalação do Python
 
 Configuração do VSCODE
+
+CODIGO DE PYTHON NO VSCODE
+- print
+
+Inipt
