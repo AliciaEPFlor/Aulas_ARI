@@ -10,7 +10,7 @@ class Servidor(BaseHTTPRequestHandler):
 def do_POST(self):
     tamanho = int(self.headers['content-length'])
     dado = self.rfile.read(tamanho)
-    print("Dados recebidos:  ", dados.decode())
+    print("Dados recebidos:  ", dado.decode())
 
     self.send_response(200)
     self.end_headers()
