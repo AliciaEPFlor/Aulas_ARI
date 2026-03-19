@@ -38,4 +38,3 @@ Servidor recebe e processa:
 JSON (JavaScript, Object Notation)
     - Formato padrão para troca de dados entre cliente e servidor leve, legivel, universal
 
-
