@@ -1,0 +1,41 @@
+HTTP : Hiper texto de protocolo de transferencia
+    - Padrão para cliente-servidor conversar
+Comunicação entre Dispositivos via Protocolo HTTP
+    - Porta padrão: 8000 (HTTP)
+    - 443 (HTTPS)
+Boas praticas de programação
+
+Status Code HTTPS
+    - 200 SERVIDOR FUNCIONANDO
+    - 400 Bad Request - erro do cliente
+    - 404 Not Found - rota não existe
+    - 500 Server Error - erro no servirdor
+    - 401 - não esta autorizado a entrar
+
+BACKEND
+"O que o usuario não ve"
+    - Processa as requisições
+    - Executa a logica do sistema
+    - Desenvolve os dados
+
+Requisição e resposta
+    - API
+
+Metodo POST
+    - Envia dados para o servidor
+    - Possui corpo (body) em JSON
+Exemplo:
+POST https://localhost:8000
+Body:
+{ 
+    "nome":"João"
+    "mensagem":"Ola!"
+}
+
+Servidor recebe e processa:
+    - Status Code: 200 ok
+
+JSON (JavaScript, Object Notation)
+    - Formato padrão para troca de dados entre cliente e servidor leve, legivel, universal
+
+
