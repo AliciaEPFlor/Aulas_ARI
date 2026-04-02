@@ -1,0 +1,12 @@
+Ultima vista: HTTPS
+
+SSH - Secure Shell
+ - O SSH é um protocolo de rede criptográfico (opera por ) 
+
+ Oque é um Framework
+
+ Desenvolvimento de codigos no vscode com python
+
+ where python
+
+ DNS = tipo de arquivo para link
