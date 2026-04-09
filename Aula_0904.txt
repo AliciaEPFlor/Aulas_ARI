@@ -1,0 +1,57 @@
+Rotas: caminhos 
+
+meclivros.mec.gov.br
+
+id = 100 0771
+id = 100 1060
+id = 100 0129
+id = 100 1700
+      |
+Banco de dados (livro)
+
+pip: Intalados do python
+apt: Instalador do Linux
+
+           SSH
+PC      ----------     AWS
+        tunelamento   Login
+                      Banco
+                      PicPay
+                      (Java)
+
+COMANDOS NO LINUX PARA ATUALIZAR E BAIXAR OS PACOTES NOVOS
+sudo apt update && upgrade
+
+COMANDO PARA LIMPAR O TERMINAL
+clear
+
+COMANDO PIPY (OR)
+|| 
+
+SABER O USUARIO
+whoami
+
+COMANDO PARA BAIXAR PACOTE DE SSH
+sudo apt install openssh-server -y
+
+COMANDO BASE PARA BAIXAR QUALQUER COISA
+sudo apt install
+
+COMANDO PARA VERIFICAR SE ESSE E O SSH CERTO
+sudo sytemclt status ssh
+
+
+Rere
+Porta padrão
+
+
+
+NAT: Não tem indereço de IP
+BRED: Ganha endereço de IP
+
+sudo systemctl restart NetworkManager
+
+sudo systemctl start ssh
+
+ssh vboxuser@127.0.0.1 -p2222
+
