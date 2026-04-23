@@ -1,0 +1,3 @@
+sudo apt upgrade && update
+sudo systemctl start ssh 
+sudo systemctl status shh 
